@@ -1,0 +1,5 @@
+Remove all gulp and npm bullshit
+
+update index.html to use full files instead of minified ones
+
+remove all comments about agency theme or bootstrap ( search )
